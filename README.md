@@ -6,6 +6,7 @@ CAS 硬编码 远程代码执行漏洞
 java -jar cas-0.0.1-all.jar  http://localhost:8080/cas-server/login
 
 -----------------------cas检测工具---------------------------------
+
 -----------本软件仅供学习交流,如作他用所承受的法律责任一概与作者无关---------
 
 ---------use: jar -jar cas-0.0.1-all.jar http://xxxx.xxxx-------  
